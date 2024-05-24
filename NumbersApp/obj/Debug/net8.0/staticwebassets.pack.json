@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\D disk\\Programming\\NumbersApp\\NumbersApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\NumbersApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\NumbersApp.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\D disk\\Programming\\NumbersApp\\NumbersApp\\wwwroot\\Styles\\styles.css",
+      "PackagePath": "staticwebassets\\Styles\\styles.css"
+    },
+    {
+      "Id": "C:\\D disk\\Programming\\NumbersApp\\NumbersApp\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\D disk\\Programming\\NumbersApp\\NumbersApp\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\D disk\\Programming\\NumbersApp\\NumbersApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\D disk\\Programming\\NumbersApp\\NumbersApp\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.NumbersApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.NumbersApp.props",
+      "PackagePath": "build\\NumbersApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.NumbersApp.props",
+      "PackagePath": "buildMultiTargeting\\NumbersApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.NumbersApp.props",
+      "PackagePath": "buildTransitive\\NumbersApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
